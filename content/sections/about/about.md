@@ -1,14 +1,10 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/DALL·E 2023-05-26 23.35.57.png"
+imageAlt: "About me"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I'm Kelvin Boateng, or you can call me Kelly Cypher. I love working with technology and making cool things happen. I've been doing it for over a year and a half, and I'm all about turning ideas into real stuff.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I'm not just into tech talk—I really enjoy using my skills to get things done. Whether it's writing code, solving problems, or starting new projects, I'm all in. I like taking on challenges and turning big ideas into something you can see and use.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Let's make your tech ideas come to life together. I'm excited to share what I know and ready to take on new projects with you.

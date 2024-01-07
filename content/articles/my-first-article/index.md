@@ -1,74 +1,35 @@
 ---
-title: "This is an exemplary article for the blog."
+title: "What happens when you type google.com in your browser and press Enter"
 description: "This description will be used for the article listing and search results on Google."
-date: "2021-05-28"
+date: "2023-07-03"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-  alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  src: "../../images/searchingongoogle.webp"
+
 categories:
   - "Setup"
   - "Tutorial"
 keywords:
-  - "Example"
-  - "Gatsby"
-  - "Markdown"
-  - "Blog"
+  - "Alx Africa"
+  - "Devops"
+  - "Software engineering"
 ---
 
-## Code block test
+The moment you enter “https://www.google.com" into your web browser’s address bar and press Enter, an interesting series of background processes begin. The path a web request takes, from the initial DNS request to the final delivery of the requested webpage, will be more closely examined in this blog post.
 
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
+An initial DNS (Domain Name System) request kicks off the procedure. Your browser sends a request to a DNS resolver, such as your ISP, or a free public DNS service like Google DNS. The human-readable domain name, such as “www.google.com" is converted into an IP address by this resolver. An Internet Protocol, or IP, address is a distinctive numerical identifier connected to the web server that is responsible for hosting Google’s website.
 
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
+Your browser connects to the web server using TCP/IP (Transmission Control Protocol/Internet Protocol) when the IP address has been resolved. While IP manages routing and addressing, TCP delivers dependable and organized transfer of data.
 
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
+The web request might go through a firewall before the connection is made, a security device that keeps an eye on and manages incoming and outgoing network traffic. The firewall checks the request to make sure it adheres to security guidelines and removes any potentially hazardous or unauthorized traffic.
 
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-```
+A connection will be encrypted using HTTPS (Hypertext Transfer Protocol Secure) if you’ve seen the “https://” prefix in the URL. To prevent data eavesdropping or tampering, HTTPS makes sure that every communication between your browser and the web server is encrypted. Your browser and the web server exchange encryption keys and confirm the identity of the server during an SSL/TLS (Secure Sockets Layer/Transport Layer Security) handshake to create a secure connection.
 
-Inline code: `print()`
+To divide incoming web requests among several web servers, large websites like Google frequently use load balancers. By properly dispersing the workload, load balancers maximize resource consumption and enhance performance. When you request “www.google.com," the load balancer sends your request to a traffic-capable web server that is available and accepting requests.
 
-Lorem ipsum dolor sit amed Vel ut spiritday all cultural Lili Elbe lorem in sexuality Herstory sit lorem Ac Genderless homoflexible trans Carrie Fisher Transgender love family cross-dresser ac a ut Ac xe she ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners Ipsum Chimamanda Ngozi sed sit Equal movement gender ut est lorem Laura Jane Grace Emma Watson sem eu.
+Once your request has been received by a web server, it is processed and the pertinent files, such as HTML, CSS, JavaScript, and pictures, are downloaded. Your browser receives a response from the web server over the established TCP/IP connection that contains these resources.
 
-**Maria Montessori vel sem in eu Leelah Alcorn** In eu Leelah Alcorn in Margaret Sanger future Martha Nussbaum eu gender non-conformity Family cross-dresser ac a ut representation drag queen Ac third wave Hannah Gadsby culture feminismus ac suffragette cisgender in a eu Ac a ut representation drag queen Out Lorem ac no means no f word sed Emmeline Pankhurst.
+To complete the request, the web server may occasionally need to communicate with an application server. Based on the user’s request, the application server either executes dynamic code or obtains data from databases. For instance, if you conduct a Google search, an application server may execute your request and retrieve the pertinent search results.
 
-## Second Headline
+The application server interacts with the database server to retrieve the necessary data if the request is for data retrieval from a database. Databases organize and store enormous volumes of structured data, including user profiles, search indexes, and content repositories. In order to create the final answer that is delivered back to your browser, the data that was retrieved is next employed.
 
-Est vel est appreciation Nadia Murad Basee Taha cross-dressing vel Ut mi sit ut eu id Samira Wiley sit vel sem Ut romance in gender studies ballroom Sit lorem ac no means no f word sed Emmeline Pankhurst Ac sorellanza In Lea Delaria in grrlpwr pansexual intersectional yas queen diritti id mi Sem Audre Lorde Sappho in sed et empowerment genderqueer intersex.
-
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
-
-Feminizmas eu Dian Fossey ac third wave notion supporting androgyny dui ut People a Sylvia Plath mi sex-positivity demisexual a equality suffragettes pronouns Vel est appreciation Nadia Murad Basee Taha cross-dressing vel Sustainability ut sit dui Lesbians and Gays Support the Miners local eu Hanna Gaby Odiele est queer Misty Copeland She ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners local Equal ac et ut romance in Second wave sit friendship grl pwr castro.
-
-### Third Headline
-
-Vel sem Sed Roxane Gay Caitlin Moran Ace id Amelia Earhart Gloria Steinem Samira Wiley sit Amelia Earhart Gloria Steinem eu In et ac in Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility Dance Simone de Beauvoir eu sem.
-
-#### Fourth Headline
-
-Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility dui et voices Stonewall Inn sem et Ac pride month lorem et eu dui sit eu ut Eu ut Et in lorem id sed Id Kate Bornstein smash the patriarchy et et eu motivational ut In Chimamanda Ngozi sed sit strength.
-
-![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
-
-Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola.
+To sum up, when you enter “https://www.google.com" in your browser and press Enter, a number of components work flawlessly to produce the required webpage. Each step is essential in maintaining a safe and effective browsing experience, from the initial DNS request to the last response generated by the web server. Our appreciation of the complex infrastructure that supports the websites we visit every day can be increased by knowing what happens behind the scenes.
