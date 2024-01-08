@@ -1,15 +1,12 @@
 {
   "siteMetadata": {
-    "language": [
-      "en",
-      "de"
-    ],
+    "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "kelvin Boateng",
     "titleTemplate": "Kelvin Boateng",
     "description": "Crafting user-friendly websites and mobile apps with a passion for clean, efficient code.",
     "author": "Kelvin Boateng",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/DALL·E 2023-05-26 23.35.57.png",
     "bio": "I'm Kelvin Boateng, or you can call me Kelly Cypher. I love working with technology and making cool things happen. I've been doing it for over a year and a half, and I'm all about turning ideas into real stuff.",
     "social": {
       "github": "https://github.com/kellycypher98",
