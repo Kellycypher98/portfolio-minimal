@@ -15,6 +15,7 @@
       "github": "https://github.com/kellycypher98",
       "medium": "https://medium.com/@kellycypher98",
       "linkedin": "https://www.linkedin.com/in/kelvin-boateng-945239198/",
+      "twitter": "https://twitter.com/_kellyboateng",
       "mail": "mailto:kelvinboateng94@outlook.com"
     }
   },
@@ -29,16 +30,16 @@
           "url": "/#about"
         },
         {
-          "label": "Blog",
-          "url": "/blog"
-        },
-        {
-          "label": "Features",
+          "label": "Projects",
           "url": "/#features"
         },
         {
-          "label": "Github",
+          "label": "Contact",
           "url": "/#github"
+        },
+        {
+          "label": "Blog",
+          "url": "/blog"
         }
       ],
       "ctaButton": {

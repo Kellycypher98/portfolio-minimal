@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
+  "name": "Kelvin Osei Boateng",
   "email": "kelvinboateng94@outlook.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "description": "If you would love to work with me or collaborate, hit me up on my socials",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/DALL·E 2023-05-26 23.35.57.png",
+    "alt": "Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Medium", "Github", "Mail", "twitter"],
     "showIcons": true
   }
 }

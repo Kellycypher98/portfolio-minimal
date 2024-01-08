@@ -10,12 +10,12 @@
   },
   "title": "I'm Kelvin Boateng",
   "subtitle": {
-    "prefix": "I build for web and mobile",
+    "prefix": "I build web & mobile apps",
     "suffix": "."
   },
-  "description": "",
+  "description": "Crafting user-friendly websites and mobile apps with a passion for clean, efficient code. Currently building TapCals, a daily calories distributor",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github","twitter"],
     "showIcons": true
   }
 }

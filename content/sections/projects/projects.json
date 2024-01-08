@@ -49,7 +49,7 @@
       "category": "Web App",
       "title": "CoinTrackerr",
       "description": "Know where your money is going.Track how you are spending every dollar, identify unwanted subscriptions, and discover trends in your spending to out how to improve",
-      "tags": ["React", "JavaScript", "netlify"],
+      "tags": ["React", "tailwindcss", "firebase", "React router"],
       "image": {
         "src": "../../images/cointracker-mockup.png",
         "alt": "Danbolt"
@@ -57,11 +57,33 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/Kellycypher98/cointrackerr-landing-page"
+          "url": "https://github.com/Kellycypher98/CoinTrackerr"
         }, 
         {
           "type": "external",
-          "url": "https://cointrackerrinfo-8je1e9xvc-kellycypher98.vercel.app"
+          "url": "https://cointrackerr.netlify.app/"
+        }
+      ]
+     
+    },
+    {
+      "visible": true,
+      "category": "Landing Page",
+      "title": "CoinTrackerr Landing Page",
+      "description": "Know where your money is going.Track how you are spending every dollar, identify unwanted subscriptions, and discover trends in your spending to out how to improve",
+      "tags": ["React", "tailwindcss"],
+      "image": {
+        "src": "../../images/landing.png",
+        "alt": "cointrackrr"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Kellycypher98/CoinTrackerr-landing"
+        }, 
+        {
+          "type": "external",
+          "url": "https://cointrackerrinfo-8je1e9xvc-kellycypher98.vercel.app/"
         }
       ]
      
@@ -70,7 +92,7 @@
   
   "button": {
     "visible": true,
-    "label": "Visit on Github",
+    "label": "more on Github",
     "url": "https://github.com/kellycypher98"
   }
    
