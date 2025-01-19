@@ -97,7 +97,7 @@
       "description": "I replicated a landing page for DurraFX",
       "tags": ["React", "tailwindcss"],
       "image": {
-        "src": "../../images/landing.png",
+        "src": "../../images/durra.png",
         "alt": "DurraFX"
       },
       "links": [
