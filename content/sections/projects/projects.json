@@ -87,32 +87,32 @@
         }
       ]
      
-    }
+    },
+    {
+       "visible": true,
+       "category": "Landing Page",
+       "title": "Durrafx",
+       "description": "I replicated a landing page for DurraFX",
+       "tags": ["React", "tailwindcss"],
+       "image": {
+         "src": "../../images/durra.png",
+         "alt": "DurraFX"
+       },
+       "links": [
+         {
+           "type": "github",
+           "url": "https://github.com/Kellycypher98/durra-fx"
+         }, 
+         {
+           "type": "external",
+           "url": "https://durra-fx.netlify.app/"
+         }
+       ]
+      
+     }
   ]
-  },
-   {
-      "visible": true,
-      "category": "Landing Page",
-      "title": "Durrafx",
-      "description": "I replicated a landing page for DurraFX",
-      "tags": ["React", "tailwindcss"],
-      "image": {
-        "src": "../../images/durra.png",
-        "alt": "DurraFX"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Kellycypher98/durra-fx"
-        }, 
-        {
-          "type": "external",
-          "url": "https://durra-fx.netlify.app/"
-        }
-      ]
-     
-    }
-  ],
+ 
+ ,
   
   "button": {
     "visible": true,
