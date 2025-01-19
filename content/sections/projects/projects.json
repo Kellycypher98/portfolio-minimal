@@ -88,6 +88,30 @@
       ]
      
     }
+  ]
+  },
+   {
+      "visible": true,
+      "category": "Landing Page",
+      "title": "Durrafx",
+      "description": "I replicated a landing page for DurraFX",
+      "tags": ["React", "tailwindcss"],
+      "image": {
+        "src": "../../images/landing.png",
+        "alt": "DurraFX"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Kellycypher98/CoinTrackerr-landing"
+        }, 
+        {
+          "type": "external",
+          "url": "https://cointrackerrinfo-8je1e9xvc-kellycypher98.vercel.app/"
+        }
+      ]
+     
+    }
   ],
   
   "button": {
