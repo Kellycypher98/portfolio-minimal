@@ -3,8 +3,19 @@ imageSrc: "../../images/DALL·E 2023-05-26 23.35.57.png"
 imageAlt: "About me"
 ---
 
-I'm Kelvin Boateng, or you can call me Kelly Cypher. I love working with technology and making cool things happen. I've been doing it for over a year and a half, and I'm all about turning ideas into real stuff.
+👋 Hi, I’m Kelvin Boateng or just Kelly Cypher
+I’m a Software Developer with 3 years of experience building web and mobile apps that solve real problems and deliver clean, scalable user experiences. I love turning ideas into actual products that people enjoy using.
 
-I'm not just into tech talk—I really enjoy using my skills to get things done. Whether it's writing code, solving problems, or starting new projects, I'm all in. I like taking on challenges and turning big ideas into something you can see and use.
+I specialize in:
 
-Let's make your tech ideas come to life together. I'm excited to share what I know and ready to take on new projects with you.
+Frontend: React.js, Next.js, Tailwind CSS, JavaScript (ES6+), Bootstrap
+
+Mobile: React Native, Firebase, MongoDB
+
+Backend: Express JS, Java (Spring Boot), Supabase, Firebase Functions
+
+Cloud & Tools: AWS, Git/GitHub, Postman, Figma, Lighthouse
+
+Whether it's optimizing performance, building intuitive UIs, or integrating APIs, I'm always focused on shipping quality work. I enjoy collaborating with teams, solving tough problems, and constantly learning what’s next in tech.
+
+Let’s build something amazing.
