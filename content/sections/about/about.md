@@ -12,9 +12,9 @@ Frontend: React.js, Next.js, Tailwind CSS, JavaScript (ES6+), Bootstrap
 
 Mobile: React Native, Firebase, MongoDB
 
-Backend: Express JS, Java (Spring Boot), Supabase, Firebase Functions
+Backend: TypeScript, Express JS, PostGres
 
-Cloud & Tools: AWS, Git/GitHub, Postman, Figma, Lighthouse
+Cloud & Tools: AWS, Git/GitHub, Postman, Figma, Lighthouse, Firebase Functions,Supabase,
 
 Whether it's optimizing performance, building intuitive UIs, or integrating APIs, I'm always focused on shipping quality work. I enjoy collaborating with teams, solving tough problems, and constantly learning what’s next in tech.
 
